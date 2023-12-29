@@ -2,6 +2,8 @@
 
 # Hey, I’m Brian Sutterfield! 👋🏻
 
+<img src="images/home/trip-pic.jpg" width="100px" />
+
 ## 🔴 Jr. Security Engineer: Red Team
 
 ## What I do:
@@ -17,8 +19,6 @@ I am a hardworking individual with a passion to protect and defend the personal 
 * Jr. Security Engineer at Indiana Office of Technology
 * Penetration Tester Consultant for the State Earn and Learn Program: Employed by Brooksource, consultant at Indiana Office of Technology
 
-[Projects](images/home/projects_all.csv)
-
 ## Education At a Glance:
 
 - Bachelor’s of Science in Cybersecurity and Information Assurance From WGU
@@ -29,8 +29,6 @@ I am a hardworking individual with a passion to protect and defend the personal 
 - Currently pursuing:
     - PNPT from TCM Security
     - BSCP From PortSwigger
-
-<img src="images/home/trip-pic.jpg" width="100px" />
 
 ---
 
