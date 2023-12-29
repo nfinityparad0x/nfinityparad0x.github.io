@@ -30,7 +30,7 @@ I am a hardworking individual with a passion to protect and defend the personal 
     - PNPT from TCM Security
     - BSCP From PortSwigger
 
-![alt text](images/home/20230923_141334.jpg)
+<img src="images/home/20230923_141334.jpg" alt="images/home/20230923_141334.jpg" />
 
 ---
 
@@ -41,7 +41,7 @@ Thanks for visiting! 🙏🏻
 I enjoy chatting about cybersecurity, helping or participating in CTFs and other Cybersecurity related challenges, and generally just getting to know new people!
 
 <aside>
-<img src="images/home/Outlook-Icon.ico" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/Outlook-Icon.ico" width="40px" /> Email: BrianSutterfield@outlook.com
+<img src="images/home/Outlook-Icon.ico" alt="images/home/Outlook-Icon.ico" width="40px" /> Email: BrianSutterfield@outlook.com
 
 </aside>
 
