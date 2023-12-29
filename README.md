@@ -14,8 +14,8 @@ I am a hardworking individual with a passion to protect and defend the personal 
 
 ## Experience At a Glance:
 
-- Jr. Security Engineer at Indiana Office of Technology
-- Penetration Tester Consultant for the State Earn and Learn Program: Employed by Brooksource, consultant at Indiana Office of Technology
+* Jr. Security Engineer at Indiana Office of Technology
+* Penetration Tester Consultant for the State Earn and Learn Program: Employed by Brooksource, consultant at Indiana Office of Technology
 
 [Projects](images/home/projects_all.csv)
 
