@@ -30,7 +30,7 @@ I am a hardworking individual with a passion to protect and defend the personal 
     - PNPT from TCM Security
     - BSCP From PortSwigger
 
-!(images/home/20230923_141334.jpg)
+![alt text](images/home/20230923_141334.jpg)
 
 ---
 
