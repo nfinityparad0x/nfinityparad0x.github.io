@@ -17,7 +17,7 @@ I am a hardworking individual with a passion to protect and defend the personal 
 - Jr. Security Engineer at Indiana Office of Technology
 - Penetration Tester Consultant for the State Earn and Learn Program: Employed by Brooksource, consultant at Indiana Office of Technology
 
-[Projects](Portfolio%209ca50d6576424fca8df27b62c2aa4b20/Projects%204db7a0bf0f1b4314880e464a9959b8cc.csv)
+[Projects](images/home/projects_all.csv)
 
 ## Education At a Glance:
 
@@ -30,7 +30,7 @@ I am a hardworking individual with a passion to protect and defend the personal 
     - PNPT from TCM Security
     - BSCP From PortSwigger
 
-![20230923_141334.jpg](Portfolio%209ca50d6576424fca8df27b62c2aa4b20/20230923_141334.jpg)
+![20230923_141334.jpg](images/home/20230923_141334.jpg)
 
 ---
 
@@ -41,21 +41,21 @@ Thanks for visiting! 🙏🏻
 I enjoy chatting about cybersecurity, helping or participating in CTFs and other Cybersecurity related challenges, and generally just getting to know new people!
 
 <aside>
-<img src="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/Outlook-Icon.ico" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/Outlook-Icon.ico" width="40px" /> Email: BrianSutterfield@outlook.com
+<img src="images/home/Outlook-Icon.ico" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/Outlook-Icon.ico" width="40px" /> Email: BrianSutterfield@outlook.com
 
 </aside>
 
 <aside>
-<img src="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/linkedin-icon.ico" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/linkedin-icon.ico" width="40px" /> [LinkedIn Profile](http://www.linkedin.com/in/brian-sutterfield3)
+<img src="images/home/linkedin-icon.ico" alt="images/home/linkedin-icon.ico" width="40px" /> [LinkedIn Profile](http://www.linkedin.com/in/brian-sutterfield3)
 
 </aside>
 
 <aside>
-<img src="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/THM-Base-Icon.svg" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/THM-Base-Icon.svg" width="40px" /> [TryHackMe Profile](https://tryhackme.com/p/NfinityParad0x)
+<img src="images/home/THM-Base-Icon.svg" alt="images/home/THM-Base-Icon.svg" width="40px" /> [TryHackMe Profile](https://tryhackme.com/p/NfinityParad0x)
 
 </aside>
 
 <aside>
-<img src="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/hack-the-box-base-icon.png" alt="Portfolio%209ca50d6576424fca8df27b62c2aa4b20/hack-the-box-base-icon.png" width="40px" /> [HackTheBox Profile](https://app.hackthebox.com/profile/582051)
+<img src="images/home/hack-the-box-base-icon.png" alt="images/home/hack-the-box-base-icon.png" width="40px" /> [HackTheBox Profile](https://app.hackthebox.com/profile/582051)
 
 </aside>
