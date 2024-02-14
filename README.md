@@ -49,7 +49,7 @@ I enjoy chatting about cybersecurity, helping or participating in CTFs and other
 </aside>
 
 <aside>
-<img src="images/home/THM-Base-Icon.svg" alt="images/home/THM-Base-Icon.svg" width="40px" /> [TryHackMe Profile](https://tryhackme.com/p/NfinityParad0x)
+<img src="images/home/THM-Base-Icon.svg" alt="images/home/THM-Base-Icon.svg" width="40px" /> <a href=https://tryhackme.com/p/NfinityParad0x>TryHackMe Profile</a>
 
 </aside>
 
