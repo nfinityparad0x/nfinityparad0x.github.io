@@ -45,18 +45,18 @@ I enjoy chatting about cybersecurity, helping or participating in CTFs and other
 
 <aside>
 <img src="images/home/linkedin-icon.ico" alt="images/home/linkedin-icon.ico" width="40px" />
-<a href=http://www.linkedin.com/in/brian-sutterfield3>LinkedIn Profile</a>
+[LinkedIn Profile](http://www.linkedin.com/in/brian-sutterfield3)
 
 </aside>
 
 <aside>
 <img src="images/home/THM-Base-Icon.svg" alt="images/home/THM-Base-Icon.svg" width="40px" />
-<a href=https://tryhackme.com/p/NfinityParad0x>TryHackMe Profile</a>
+[TryHackMe Profile](https://tryhackme.com/p/NfinityParad0x)
 
 </aside>
 
 <aside>
 <img src="images/home/hack-the-box-base-icon.png" alt="images/home/hack-the-box-base-icon.png" width="40px" />
-<a href=https://app.hackthebox.com/profile/582051>HackTheBox Profile</a>
+[HackTheBox Profile](https://app.hackthebox.com/profile/582051)
 
 </aside>
